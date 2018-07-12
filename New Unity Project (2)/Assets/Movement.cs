@@ -4,8 +4,13 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour {
 
-	// Use this for initialization
+    public int nazwa;
+
+
+
+	
 	void Start () {
+      
 		
 	}
 	
@@ -13,4 +18,5 @@ public class Movement : MonoBehaviour {
 	void Update () {
 		
 	}
+   
 }
