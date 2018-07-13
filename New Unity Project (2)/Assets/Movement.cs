@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour {
 
-    public int nazwa;
+    public int _speed;
+    public int _jumpSpeed;
+    Rigidbody rig;
+
 
 
 
